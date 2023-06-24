@@ -6,3 +6,4 @@ so basically i went to open weather and copied the required url and pasted it in
 ![image](https://github.com/ChallaDhruvaTeja/weather_prodcast-PYTHON-/assets/128221870/7aa3b0df-5e5a-48ac-a23b-39b5909a8000)
 # USAGE OF GITHUB COPILOT
 Basically github copilot helped me in correcting my errors and showing me a right way to code which helped in increasing my development and productivity
+GitHub Copilot can provide code suggestions while you're writing the code. For example, when you start typing requests.get, it can suggest completing the line with the necessary URL and API key. It can also assist in error handling by suggesting common exceptions and providing snippets for error messages.
