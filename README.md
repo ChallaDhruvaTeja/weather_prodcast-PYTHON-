@@ -5,4 +5,4 @@ so basically i went to open weather and copied the required url and pasted it in
 # architecture diagram
 ![image](https://github.com/ChallaDhruvaTeja/weather_prodcast-PYTHON-/assets/128221870/662dcc86-534b-4dd6-a049-a25cef9cd715)
 # USAGE OF GITHUB COPILOT
-BAsically github copilot helped me in correcting my errors and showing me a right way to code which helped in increasing my development and productivity
+Basically github copilot helped me in correcting my errors and showing me a right way to code which helped in increasing my development and productivity
